@@ -1,0 +1,10 @@
+{
+  "name": "telegram-form-submission",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
